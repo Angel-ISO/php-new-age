@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .centrar {
+    width: 400px;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+
+  .dato {
+    margin-bottom: 10px;
+  }
+
+  .titulo {
+    font-weight: bold;
+  }
